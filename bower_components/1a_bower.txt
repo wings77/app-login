@@ -1,0 +1,9 @@
+Los sitios web están hechos de muchas cosas: marcos, bibliotecas, activos y utilidades. Bower gestiona todas estas cosas por ti.
+
+Hacer un seguimiento de todos estos paquetes y asegurarse de que estén actualizados (o configurados para las versiones específicas que necesita) es complicado. ¡Bower al rescate!
+
+Bower puede administrar componentes que contienen HTML, CSS, JavaScript, fuentes o incluso archivos de imagen. Bower no concatena ni minimiza el código ni hace nada más, simplemente instala las versiones correctas de los paquetes que necesita y sus dependencias.
+
+Para comenzar , Bower trabaja obteniendo e instalando paquetes de todas partes, ocupándose de buscar, encontrar, descargar y guardar las cosas que está buscando. Bower realiza un seguimiento de estos paquetes en un archivo de manifiesto, bower.json. La forma de utilizar los paquetes depende de usted. Bower proporciona ganchos para facilitar el uso de paquetes en sus herramientas y flujos de trabajo .
+
+Bower está optimizado para el front-end. Si varios paquetes dependen de un paquete, por ejemplo, jQuery, Bower descargará jQuery solo una vez. Esto se conoce como gráfico de dependencia plano y ayuda a reducir la carga de la página.

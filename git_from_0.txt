@@ -1,0 +1,33 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+Prueba la nueva tecnología PowerShell multiplataforma https://aka.ms/pscore6
+
+PS D:\wampserver\htdocs\alladinerp3> help
+
+
+TEMA
+    Sistema de ayuda de Windows PowerShell
+
+DESCRIPCIÓN BREVE
+    Muestra ayuda acerca de los cmdlets y los conceptos de Windows PowerShell. 
+
+DESCRIPCIÓN LARGA
+    En la ayuda de Windows PowerShell se describen los cmdlets, las funciones,
+    los scripts y los módulos de Windows PowerShell y se explican conceptos,
+    incluidos los elementos del lenguaje Windows PowerShell.
+
+    Windows PowerShell no incluye archivos de ayuda, pero puede leer los
+    temas de ayuda en línea o usar el cmdlet Update-Help para descargar archivos de ayuda
+    en el equipo y, a continuación, usar el cmdlet Get-Help para mostrar los temas
+    de ayuda en la línea de comandos.
+
+    También puede usar el cmdlet Update-Help para descargar archivos de ayuda
+    actualizados a medida que se publiquen, para que el contenido de ayuda local nunca se quede obsoleto. 
+
+    Sin archivos de ayuda, Get-Help obtiene ayuda generada automáticamente para los cmdlets,
+    las funciones y los scripts.
+
+
+  AYUDA EN LÍNEA
+-- Más  -- 
