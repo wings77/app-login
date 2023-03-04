@@ -82,9 +82,6 @@ if ($cfg_app_mtto == 1) {
     <link href="https://fonts.googleapis.com/css2?family=ABeeZee&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
     <script src="https://www.google.com/recaptcha/api.js?render=<?php echo RECAPCHA_SITE_KEY; ?>"></script>
-    <?php
-
-    ?>
 </head>
 
 <body>
