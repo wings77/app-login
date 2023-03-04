@@ -88,7 +88,6 @@ if ($cfg_app_mtto == 1) {
 </head>
 
 <body>
-    <h1>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Reprehenderit facilis ipsa a nam et, eum deserunt laborum quos amet quas illo aliquam quis similique fugiat. Eveniet sapiente officia eius harum?</h1>
     <div class="content-container welcome-container">
         <div class="ad-placement-header-footer">
         </div>
